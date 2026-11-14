@@ -8,6 +8,8 @@ Windows 软件管理与卸载工具 · 深色玻璃界面 · 单文件免安装
 
 [全部版本与更新说明](https://github.com/AirYang-1/ClearSweep/releases) · [SHA-256 校验](https://github.com/AirYang-1/ClearSweep/releases/latest/download/SHA256SUMS.txt)
 
+**[完整使用说明](docs/USER_GUIDE.md)** · **[更新日志](CHANGELOG.md)**
+
 当前版本：**v2.0.6**，Windows 10/11 x64，约 46.6 MiB。
 
 下载 EXE 后双击运行，无需安装 Python、Qt SDK，也不需要把源码放在旁边。首次打开会出现 Windows 管理员权限提示。
